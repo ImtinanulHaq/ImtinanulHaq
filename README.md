@@ -1,98 +1,136 @@
-# 👋 Hi, I'm Muhammad Imtinan ul Haq
+# 👋 Muhammad Imtinan ul Haq  
+**Computer Science Undergraduate | Full Stack Engineer | AI & ML Practitioner**  
 
-🚀 Computer Science Undergraduate | Full Stack Developer | AI & Machine Learning Enthusiast  
 📍 Faisalabad, Pakistan  
-
-I'm a passionate **Computer Science undergraduate** with strong expertise in **Full Stack Web Development**, **Data Analysis**, and **AI-powered applications**. I enjoy building **production-ready systems** that combine modern web technologies with **Machine Learning, NLP, and LLMs**.
+🔗 Portfolio: https://effervescent-monstera-3ef56a.netlify.app/  
+🔗 LinkedIn: https://linkedin.com/in/imtinan-ul-haq-75646331b  
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 About Me
 
-### 🌐 Web Development
+I'm a **Computer Science undergraduate** with a strong passion for **software engineering, artificial intelligence, and data-driven systems**.  
+I specialize in building **production-ready applications** that blend **modern web development**, **machine learning**, and **LLM-powered intelligence**.
+
+My work spans from **full-stack platforms and AI chatbots** to **data analysis pipelines, system-level programming, and visual learning tools**.  
+I focus on **clean architecture, scalability, and real-world usability**.
+
+---
+
+## 🚀 Technical Expertise
+
+### 🌐 Full Stack Web Development
 - **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS  
 - **Backend:** Django, Flask, REST APIs  
-- **Databases:** PostgreSQL, MySQL, SQLite, SQL  
+- **Authentication & Security:** Role-based access, secure sessions  
+- **Databases:** PostgreSQL, MySQL, SQLite  
 - **Vector Databases:** Pinecone  
 
-I have built **scalable full-stack applications** using React with Django/Flask backends, integrated with relational and vector databases.
+I have built **end-to-end web platforms** using React with Flask/Django backends, integrating both relational and vector databases.
 
 ---
 
-### 🤖 Artificial Intelligence & LLMs
-- Retrieval-Augmented Generation (**RAG**)  
-  - Chunked RAG  
-  - Metadata-based RAG  
-- Large Language Models (**LLMs**)  
-- Hugging Face **Embedding Models**  
-- Semantic Search & Vector Embeddings  
-- NLP with **NLTK**
+### 🤖 Artificial Intelligence & LLM Systems
+- **Retrieval-Augmented Generation (RAG)**
+  - Chunked RAG
+  - Metadata-based RAG
+- **LLMs & APIs**
+- **Hugging Face Embedding Models**
+- **Semantic Search & Vector Similarity**
+- **NLP:** NLTK
+- **AI Chatbots & Assistants**
 
-I have hands-on experience building **LLM-powered chatbots**, intelligent search systems, and AI tools integrated into real-world applications.
+I have hands-on experience designing **enterprise-grade RAG pipelines**, AI chatbots, and intelligent knowledge retrieval systems.
 
 ---
 
 ### 📊 Data Analysis & Machine Learning
-- **Python Stack:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Python:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn  
-- Data Cleaning, Preprocessing & Feature Engineering  
-- Model Training, Evaluation & Visualization  
+- **Workflows:** Data cleaning, preprocessing, feature engineering  
+- **Models:** Regression, classification, evaluation & tuning  
 
-I’ve worked extensively on **data analysis pipelines**, preprocessing workflows, and classical ML models for real-world datasets.
+I have worked on **real datasets**, building preprocessing pipelines and ML models with meaningful insights.
 
 ---
 
-### 🎮 Additional Technical Skills
+### 🧩 Additional Skills
 - **Game Development:** Pygame  
 - **Computer Vision:** OpenCV  
-- **Programming Languages:** Python, C++, JavaScript  
-- **Tools & Platforms:** Git, Docker, VS Code, Postman  
+- **System Programming:** C++, x86 Assembly  
+- **Tools:** Git, Docker, VS Code, Postman  
+- **Creative Skills:** Graphic Design  
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Key Projects
 
 ### 🔹 Prepza – Data Preprocessing & Visualization Platform
-A full-stack platform focused on **automated data preprocessing and analysis**.
-- Advanced data preprocessing pipelines  
-- 10+ interactive visualization charts  
-- AI-powered chatbot for learning & guidance  
-- HTML-based automated reports  
-- ML model integration  
+A **production-ready full-stack application** for data analysis and learning.
+- Automated data cleaning & preprocessing
+- Advanced feature engineering
+- 10+ visualization types
+- AI-powered chatbot for guidance
+- HTML report generation
 - Dockerized deployment  
 
-🔗 Live: https://prepza.onrender.com/
-
 ---
 
-### 🔹 LogiForge – Interactive DSA & Mathematics Learning Platform
-An educational platform with **visual learning** at its core.
-- Visual implementations of **Data Structures & Algorithms**  
-- Discrete Mathematics concepts explained interactively  
-- AI chatbot trained on DSA, C++, OOP & Math  
+### 🔹 LogiForge – Interactive DSA & Discrete Math Platform
+A **visual-first learning system**.
+- Interactive DSA visualizations
+- Discrete Mathematics concepts
+- AI chatbot trained on DSA, C++, OOP & Math
 - Quiz system, leaderboard & admin panel  
 
-🔗 Live: https://logiforge-frontend.onrender.com/
-
 ---
 
-### 🔹 Lamhay-e-Baseerah – AI-Powered Islamic Learning Platform
-A **production-ready RAG-based NLP system**.
-- Hugging Face embeddings + Pinecone vector DB  
-- Chunked & metadata-based RAG implementation  
-- NLP using NLTK  
-- Intelligent chatbot with contextual responses  
-- PostgreSQL backend with multiple advanced features  
+### 🔹 Lamhay-e-Baseerah – AI-Powered Knowledge Platform
+An **enterprise-grade RAG-based system**.
+- Hugging Face embeddings + Pinecone
+- Chunked & metadata RAG
+- NLP using NLTK
+- Intelligent chatbot
+- PostgreSQL-backed architecture  
 
 ---
 
 ### 🔹 AI Presentation Generator
-An intelligent **LLM-powered presentation tool**.
-- Automatic content-to-slide generation  
-- Speaker notes with timing estimation  
-- Django backend + React frontend  
-- PostgreSQL database integration  
-- LLM-powered content generation  
+An **LLM-powered presentation automation tool**.
+- Raw content → professional slides
+- Speaker scripts with timing
+- Django + React architecture
+- PostgreSQL integration  
+
+---
+
+### 🔹 Medora – Emergency Support Platform
+A **secure real-time emergency response system**.
+- Hospital, ambulance & blood bank integration
+- Emergency donor connectivity
+- Scalable backend architecture  
+
+---
+
+### 🔹 MicroOS – Middleware OS Architecture
+- Android-inspired middleware design
+- Custom OS architecture concepts
+- Implemented in C++  
+
+---
+
+### 🔹 Other Notable Projects
+- Chess Game (React)
+- Hash Table Visualizer (React)
+- Air Drawing using OpenCV
+- Core Banking System (Flask)
+- Bitcoin & Stock Price Prediction (ML)
+- Face Age Detection (OpenCV)
+- Discrete Mathematics System (C++)
+- x86 Assembly Brick Breaker Game
+- Arduino Automated Plant System
+- Professional Portfolios & Business Websites
 
 ---
 
@@ -109,11 +147,12 @@ FAST University, Faisalabad
 
 ---
 
-## 📫 Contact & Links
-- 📧 Email: imtinanhaq2006@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/imtinan-ul-haq-75646331b  
-- 💻 GitHub: https://github.com/your-username
+## 🤝 Open To
+- Software Engineering Internships  
+- AI / ML Research Opportunities  
+- Open Source Collaboration  
+- Freelance & Startup Projects  
 
 ---
 
-⭐ *Always excited to learn, build, and push the boundaries of AI-powered software solutions.*
+⭐ *Driven by curiosity, powered by code, and focused on building intelligent, scalable systems.*
