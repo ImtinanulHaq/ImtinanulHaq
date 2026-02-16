@@ -109,15 +109,16 @@ An **LLM-powered presentation automation tool**.
 A **secure real-time emergency response system**.
 - Hospital, ambulance & blood bank integration
 - Emergency donor connectivity
-- Scalable backend architecture  
-
+- Scalable backend architecture
+(working on it)
+  
 ---
 
 ### 🔹 MicroOS – Middleware OS Architecture
 - Android-inspired middleware design
 - Custom OS architecture concepts
 - Implemented in C++  
-
+(working on it)
 ---
 
 ### 🔹 Other Notable Projects
