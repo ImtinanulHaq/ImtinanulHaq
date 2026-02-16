@@ -1,162 +1,121 @@
-# 👋 Muhammad Imtinan ul Haq  
-**Computer Science Undergraduate | Full Stack Engineer | AI & ML Practitioner**  
+# Muhammad Imtinan ul Haq
+
+**Computer Science Undergraduate | Full Stack Engineer | AI & Machine Learning Practitioner**
 
 📍 Faisalabad, Pakistan  
-🔗 Portfolio: https://effervescent-monstera-3ef56a.netlify.app/  
-🔗 LinkedIn: https://linkedin.com/in/imtinan-ul-haq-75646331b  
+🔗 [Portfolio](https://effervescent-monstera-3ef56a.netlify.app/) | [LinkedIn](https://linkedin.com/in/imtinan-ul-haq-75646331b)
 
 ---
 
-## 🧠 About Me
+## About
 
-I'm a **Computer Science undergraduate** with a strong passion for **software engineering, artificial intelligence, and data-driven systems**.  
-I specialize in building **production-ready applications** that blend **modern web development**, **machine learning**, and **LLM-powered intelligence**.
+Computer Science undergraduate specializing in **Full Stack Development**, **Artificial Intelligence**, and **Data-Driven Systems**. I build scalable, production-grade applications by integrating modern web technologies with machine learning, NLP, and LLM-powered intelligence.
 
-My work spans from **full-stack platforms and AI chatbots** to **data analysis pipelines, system-level programming, and visual learning tools**.  
-I focus on **clean architecture, scalability, and real-world usability**.
+My work focuses on **software engineering**, **AI research**, **system-level programming**, and **interactive learning platforms**. I prioritize clean architecture, performance optimization, and practical usability in all projects.
 
 ---
 
-## 🚀 Technical Expertise
+## Technical Skills
 
-### 🌐 Full Stack Web Development
-- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS  
-- **Backend:** Django, Flask, REST APIs  
-- **Authentication & Security:** Role-based access, secure sessions  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **Vector Databases:** Pinecone  
+**Full Stack Development**
+- Frontend: React, JavaScript, HTML/CSS, Tailwind CSS
+- Backend: Django, Flask, REST APIs
+- Databases: PostgreSQL, MySQL, SQLite, Pinecone (Vector DB)
 
-I have built **end-to-end web platforms** using React with Flask/Django backends, integrating both relational and vector databases.
+**Artificial Intelligence & Machine Learning**
+- Retrieval-Augmented Generation (RAG): Chunked RAG, Metadata-based RAG
+- Hugging Face Embedding Models
+- Semantic Search & Vector Similarity
+- Natural Language Processing (NLTK)
+- LLM Integration & Chatbot Development
+- Machine Learning: Scikit-learn, Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
 
----
-
-### 🤖 Artificial Intelligence & LLM Systems
-- **Retrieval-Augmented Generation (RAG)**
-  - Chunked RAG
-  - Metadata-based RAG
-- **LLMs & APIs**
-- **Hugging Face Embedding Models**
-- **Semantic Search & Vector Similarity**
-- **NLP:** NLTK
-- **AI Chatbots & Assistants**
-
-I have hands-on experience designing **enterprise-grade RAG pipelines**, AI chatbots, and intelligent knowledge retrieval systems.
+**Additional Technologies**
+- Computer Vision: OpenCV
+- Game Development: Pygame
+- System Programming: C++, x86 Assembly
+- Hardware: Arduino (Learning)
+- Tools: Git, Docker, VS Code, Postman
 
 ---
 
-### 📊 Data Analysis & Machine Learning
-- **Python:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn  
-- **Workflows:** Data cleaning, preprocessing, feature engineering  
-- **Models:** Regression, classification, evaluation & tuning  
+## Featured Projects
 
-I have worked on **real datasets**, building preprocessing pipelines and ML models with meaningful insights.
+### Prepza – Data Preprocessing & Visualization Platform
+Comprehensive data preprocessing solution with automated cleaning, advanced feature engineering, and 10+ visualization techniques. Includes an AI-powered learning chatbot and HTML report generation. **Deployed with Docker.**
+
+**Stack:** Django, React, PostgreSQL, Machine Learning
 
 ---
 
-### 🧩 Additional Skills
-- **Game Development:** Pygame  
-- **Computer Vision:** OpenCV  
-- **System Programming:** C++, x86 Assembly  
-- **Tools:** Git, Docker, VS Code, Postman  
-- **Creative Skills:** Graphic Design  
+### LogiForge – Interactive DSA & Discrete Math Platform
+Educational platform featuring interactive visualizations for Data Structures & Algorithms and Discrete Mathematics. Integrated AI chatbot trained on DSA, C++, OOP, and mathematical concepts. Includes quiz system, leaderboard, and admin dashboard.
+
+**Stack:** Django, React, PostgreSQL, NLP
 
 ---
 
-## 🏆 Key Projects
+### Lamhay-e-Baseerah – AI-Powered Knowledge Platform
+Enterprise-grade Retrieval-Augmented Generation (RAG) system utilizing Hugging Face embeddings and Pinecone vector database. Implements chunked and metadata-based RAG with NLTK for natural language processing.
 
-### 🔹 Prepza – Data Preprocessing & Visualization Platform
-A **production-ready full-stack application** for data analysis and learning.
-- Automated data cleaning & preprocessing
-- Advanced feature engineering
-- 10+ visualization types
-- AI-powered chatbot for guidance
-- HTML report generation
-- Dockerized deployment  
+**Stack:** Django, React, PostgreSQL, Pinecone, Hugging Face, NLTK
 
 ---
 
-### 🔹 LogiForge – Interactive DSA & Discrete Math Platform
-A **visual-first learning system**.
-- Interactive DSA visualizations
-- Discrete Mathematics concepts
-- AI chatbot trained on DSA, C++, OOP & Math
-- Quiz system, leaderboard & admin panel  
+### AI Presentation Generator
+LLM-powered application that converts content into professional presentations with automated speaker scripts and timing estimation.
+
+**Stack:** Django, React, PostgreSQL, LLM APIs
 
 ---
 
-### 🔹 Lamhay-e-Baseerah – AI-Powered Knowledge Platform
-An **enterprise-grade RAG-based system**.
-- Hugging Face embeddings + Pinecone
-- Chunked & metadata RAG
-- NLP using NLTK
-- Intelligent chatbot
-- PostgreSQL-backed architecture  
+### Medora – Emergency Support Platform *(In Development)*
+Real-time emergency response system connecting hospitals, ambulances, blood banks, and emergency donors. Focus on security, scalability, and rapid response coordination.
+
+**Stack:** Django, React, PostgreSQL
 
 ---
 
-### 🔹 AI Presentation Generator
-An **LLM-powered presentation automation tool**.
-- Raw content → professional slides
-- Speaker scripts with timing
-- Django + React architecture
-- PostgreSQL integration  
+## Additional Projects
 
----
-
-### 🔹 Medora – Emergency Support Platform
-A **secure real-time emergency response system**.
-- Hospital, ambulance & blood bank integration
-- Emergency donor connectivity
-- Scalable backend architecture
-
-- (working on it)
-
----
-
-### 🔹 MicroOS – Middleware OS Architecture
-- Android-inspired middleware design
-- Custom OS architecture concepts
-- Implemented in C++
-
-- (working on it)
-
----
-
-### 🔹 Other Notable Projects
-- Chess Game (React)
-- Hash Table Visualizer (React)
-- Air Drawing using OpenCV
-- Core Banking System (Flask)
-- Bitcoin & Stock Price Prediction (ML)
-- Face Age Detection (OpenCV)
+**System & Academic Projects**
+- MicroOS – Middleware OS Architecture (C++)
+- Uninformed Search Algorithms in Grid Environments
 - Discrete Mathematics System (C++)
+- Hash Table Visualizer (React)
+- Chess Game (React)
 - x86 Assembly Brick Breaker Game
-- Arduino Automated Plant System
-- Professional Portfolios & Business Websites
+
+**Computer Vision & AI**
+- Air Drawing Application (OpenCV)
+- Face Age Detection System
+- Bitcoin & Stock Price Prediction Models
+
+**Web Applications**
+- Core Banking System (Flask)
 
 ---
 
-## 🎓 Education
+## Education
+
 **Bachelor of Science in Computer Science**  
 FAST University, Faisalabad  
-📅 Expected Graduation: 2028  
+Expected Graduation: 2028
 
 ---
 
-## 🌍 Languages
-- **Urdu:** Native  
+## Languages
+
+- **Urdu:** Native
 - **English:** Advanced (C1)
 
 ---
 
-## 🤝 Open To
-- Software Engineering Internships  
-- AI / ML Research Opportunities  
-- Open Source Collaboration  
-- Freelance & Startup Projects  
+## Interests
+
+Open to **Software Engineering Internships**, **AI/ML Research Positions**, **Open Source Collaboration**, and **Freelance Projects**.
 
 ---
 
-⭐ *Driven by curiosity, powered by code, and focused on building intelligent, scalable systems.*
+*Building intelligent, scalable systems with focus on clean architecture and measurable impact.*
