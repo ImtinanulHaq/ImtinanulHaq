@@ -3,7 +3,7 @@
 **Computer Science Undergraduate | Full Stack Engineer | AI & Machine Learning Practitioner**
 
 📍 Faisalabad, Pakistan  
-🔗 [Portfolio](https://effervescent-monstera-3ef56a.netlify.app/) | [LinkedIn](https://linkedin.com/in/imtinan-ul-haq-75646331b)
+🔗 [Portfolio](https://effervescent-monstera-3ef56a.netlify.app/) | [LinkedIn](https://linkedin.com/in/imtinan-ul-haq-75646331b) | [Montlify](https://montlify.com)
 
 ---
 
