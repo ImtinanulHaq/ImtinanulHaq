@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Imtinan%20ul%20Haq&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20Practitioner&descAlignY=55&descSize=18" width="100%"/>
+# Muhammad Imtinan ul Haq
+
+### Full Stack Engineer · AI & ML Practitioner · System Programmer
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-imtinanulhaq.onrender.com-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://imtinanulhaq.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imtinan-ul-haq-75646331b)
 [![Montlify](https://img.shields.io/badge/Montlify-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://montlify.com)
-[![Location](https://img.shields.io/badge/📍_Faisalabad-Pakistan-green?style=for-the-badge)](https://github.com/ImtinanulHaq)
+[![Location](https://img.shields.io/badge/📍_Faisalabad-Pakistan-28a745?style=for-the-badge)](https://github.com/ImtinanulHaq)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ImtinanulHaq&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/ImtinanulHaq?style=for-the-badge&color=orange&logo=github)
+
+<br/>
 
 </div>
 
@@ -364,6 +370,10 @@ LLM-powered application that converts content into professional presentations wi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+---
+
+*⭐ If you find my work interesting, consider giving a star to any of my repositories!*
+
+**Muhammad Imtinan ul Haq** · FAST University Faisalabad · 2024–2028
 
 </div>
